@@ -1,4 +1,7 @@
+
 Change here..
 Updating new line here..
 TortoiseGit..
 Dots here..
+Updating with Bash..
+Update with TortoiseGit...
